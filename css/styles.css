@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&family=Isometra&family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Young+Serif&display=swap");
+
+body {
+  background-color: #f3e5d7;
+  width: 42rem;
+  border-radius: 15px;
+  margin: 1rem 2rem;
+  border: 30px solid #ffffff;
+
+  /*   Text Preset 4 */
+  font-family: "Oufit Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  color: #312e2c;
+}
+
+.all {
+  background-color: #ffffff;
+  padding-bottom: 1px;
+}
+
+.prep {
+  background-color: #fff7fb;
+  color: #5f564d;
+  border-radius: 25px;
+  padding: 15px;
+  padding-left: 1.6rem;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 15px;
+}
+
+h1 {
+  font-family: "Young Serif Regular", serif;
+  font-size: 40px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+
+h2 {
+  color: #854632;
+  font-family: "Young Serif Regular", serif;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+
+h3 {
+  color: #7a284e;
+  font-family: "Outfit Semibold", sans-serif;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+
+ol li {
+  padding-left: 12px;
+}
+
+ol li::marker {
+  color: #8b4513;
+  font-weight: bold;
+}
+
+strong {
+  /* Text preset 4 bold */
+  font-family: "Oufit Bold", sans-serif;
+}
+
+.gram {
+  color: #8b4513;
+}
+
+.nutrition-row {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  padding: 0 25px;
+}
+
+.nutrition-row p {
+  width: 50%;
+}
+
+a,
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/*  */
+/*  */
+/*  */
+/* nav {
+  list-style: none;
+} */
+
+/* table {
+  background-color: #ffffff;
+  table-layout: auto;
+  width: 450px;
+  padding: 1rem 1rem 2rem 3rem;
+} */
